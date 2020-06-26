@@ -36,8 +36,8 @@ server.get("/", function(req, res) {
         role: "m1nero - Junior Web Dev",
         description: "Estudante 4º semestre de Analise e desenvolvimento de sistemas buscando vaga de Junior Dev",
         links: [
-            { name: "Github", url: "https://github.com/m1nero" },
             { name: "Twitter", url: "https://twitter.com/m1ner0" },
+            { name: "Github", url: "https://github.com/m1nero" },
             { name: "Linkedin", url: "https://www.linkedin.com/in/victor-montteiro/" },
         ]
     }
